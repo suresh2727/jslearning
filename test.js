@@ -1,3 +1,5 @@
+//Interview questions related to setTimeout
+
 console.log("A");
 setTimeout(() => console.log("B"), 0);
 Promise.resolve().then(() => console.log("C"));
